@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there my name is Alexander 👋
 
-<!--
-**Entire-Circus/Entire-Circus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Field of interests**: Web scraping, Data analysis
 
-Here are some ideas to get you started:
+## Skills 🛠️ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, SQL
+- **Web Scraping**: BeautifulSoup, Zendriver(Nodriver), Selenium
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+- **Tools**: Git, Jupyter Notebook
+
+---
+
+### Projects
+
+
+---
+
+### Education 🎓
+- [Master’s Degree] Kyiv National University of Trade and Economics (2024 - 2025)
+- [Bachelor's Degree] Kyiv National University of Trade and Economics (2020 - 2024)
+
+### Certifications 📜
+- [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/verify/VSQ6E2KORNL2) @ Coursera
+
+---
