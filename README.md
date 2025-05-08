@@ -17,8 +17,8 @@
 ---
 
 ### Education 🎓
-- [Master’s Degree in (Digital Economy)] Kyiv National University of Trade and Economics (2024 - 2025)
-- [Bachelor's Degree in (International Economics] Kyiv National University of Trade and Economics (2020 - 2024)
+- [Master’s Degree in Digital Economy] Kyiv National University of Trade and Economics (2024 - 2025)
+- [Bachelor's Degree in International Economics] Kyiv National University of Trade and Economics (2020 - 2024)
 
 ### Certifications 📜
 - Coursera | [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/verify/VSQ6E2KORNL2) 
