@@ -13,7 +13,9 @@
 
 ### Projects
 [Remoteok-job-scraper](github.com/Entire-Circus?tab=repositories) - Browser automation tool to collect job data
+
 [Product-availability-tracker](https://github.com/Entire-Circus/Product-availability-tracker) - Real-time product availability monitoring system
+
 [E-commerce-sales-analysis](https://github.com/Entire-Circus/E-commerce-sales-analysis) - Data analysis project for an e-commerce site
 
 ---
