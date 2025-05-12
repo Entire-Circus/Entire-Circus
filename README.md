@@ -1,4 +1,4 @@
-### Hi there my name is Alexander 👋
+### Hi there, my name is Alexander 👋
 
 **Fields of interest**: Web scraping, Data analysis
 
