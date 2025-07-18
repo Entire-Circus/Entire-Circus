@@ -17,7 +17,7 @@
 - [Shopify-web-scraper](https://github.com/Entire-Circus/Shopify-web-scraper)  
   Part 1 of an end-to-end pipeline: collects product, variant, and review data from Shopify store using Selenium and BeautifulSoup.
 
-- [Ecommerce-nlp-eda-prediction-dashboards](https://github.com/Entire-Circus/E-Commerce-Product-Review-Analysis)  
+- [Ecommerce-nlp-eda-prediction-dashboard](https://github.com/Entire-Circus/E-Commerce-Product-Review-Analysis)  
   Part 2 of the above pipeline: performs EDA, topic modeling (BERTopic), sentiment analysis (Transformers), and builds a Streamlit dashboard with real-time prediction.
 
 - [Remoteok-job-scraper](https://github.com/Entire-Circus/Remoteok-job-scraper)  
