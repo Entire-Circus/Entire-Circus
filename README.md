@@ -5,16 +5,26 @@
 ## Skills 🛠️ 
 
 - **Languages**: Python, SQL
-- **Web Scraping**: BeautifulSoup, Zendriver(Nodriver), Selenium
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Tools**: Git, Jupyter Notebook
+- **Web Scraping**: BeautifulSoup, Zendriver(Nodriver), Selenium, Requests
+- **Data Analysis & Visualization**: Pandas, NumPy, Seaborn, Matplotlib, Plotly
+- **NLP & Topic Modeling**: Hugging Face Transformers (BERT), BERTopic, UMAP, HDBSCAN, CountVectorizer, torch  
+- **Machine Learning & Modeling**: scikit-learn, XGBoost, TfidfVectorizer
+- **Tools**: Streamlit, Docker, Git, Jupyter Notebook
 
 ---
-
 ### Projects
-- [Remoteok-job-scraper](https://github.com/Entire-Circus/Remoteok-job-scraper) - Browser automation tool to collect job data
-- [Product-availability-tracker](https://github.com/Entire-Circus/Product-availability-tracker) - Real-time product availability monitoring system
-- [E-commerce-sales-analysis](https://github.com/Entire-Circus/E-commerce-sales-analysis) - Data analysis project for an e-commerce site
+
+- [Shopify-web-scraper](https://github.com/Entire-Circus/Shopify-web-scraper)  
+  Part 1 of an end-to-end pipeline: collects product, variant, and review data from Shopify store using Selenium and BeautifulSoup.
+
+- [Ecommerce-nlp-eda-prediction-dashboards](https://github.com/Entire-Circus/E-Commerce-Product-Review-Analysis)  
+  Part 2 of the above pipeline: performs EDA, topic modeling (BERTopic), sentiment analysis (Transformers), and builds a Streamlit dashboard with real-time prediction.
+
+- [Remoteok-job-scraper](https://github.com/Entire-Circus/Remoteok-job-scraper)  
+  Browser automation tool to collect remote job listings using Zendriver and BeautifulSoup.
+
+- [Product-availability-tracker](https://github.com/Entire-Circus/Product-availability-tracker)  
+  Lightweight tracker that monitors product stock status in real time using scheduled scraping and desktop alerts.
 
 ---
 
