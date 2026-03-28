@@ -4,12 +4,10 @@
 
 ## Skills 🛠️ 
 
-- **Languages**: Python, SQL
+- **Languages**: Excel, Python, SQL
 - **Web Scraping**: BeautifulSoup, Zendriver(Nodriver), Selenium, Requests
 - **Data Analysis & Visualization**: Pandas, NumPy, Seaborn, Matplotlib, Plotly
-- **NLP & Topic Modeling**: Hugging Face Transformers (BERT), BERTopic, UMAP, HDBSCAN, CountVectorizer, torch  
-- **Machine Learning & Modeling**: scikit-learn, XGBoost, Feature Engineering
-- **Tools**: Streamlit, Docker, Git, Jupyter Notebook
+- **Tools**: Streamlit, Git, Jupyter Notebook
 
 ---
 ### Projects
