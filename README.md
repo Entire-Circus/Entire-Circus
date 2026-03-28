@@ -1,16 +1,18 @@
 ### Hi there, my name is Alexander 👋
 
-**Fields of interest**: Web scraping, Data analysis
+**Fields of interest**: Data analysis, Business Intelligence, Web scraping
 
 ## Skills 🛠️ 
 
-- **Languages**: Excel, Python, SQL
+- **Languages**: Excel (Power Query, VBA), Python (Pandas, NumPy, Scikit-learn), SQL 
 - **Web Scraping**: BeautifulSoup, Zendriver(Nodriver), Selenium, Requests
 - **Data Analysis & Visualization**: Pandas, NumPy, Seaborn, Matplotlib, Plotly
-- **Tools**: Streamlit, Git, Jupyter Notebook
+- **Tools**: Streamlit, Git, Jupyter Notebook, Microsoft Excel Dashboarding
 
 ---
 ### Projects
+- [Restaurant-Sales-Performance-Analysis](https://github.com/Entire-Circus/Restaurant-Sales-Performance-Analysis)
+  End-to-end restaurant sales analysis in Excel: Featuring automated data cleaning, EDA, a dynamic stakeholder dashboard, and what-if revenue forecasting scenario.
 
 - [Shopify-web-scraper](https://github.com/Entire-Circus/Shopify-web-scraper)  
   Part 1 of an end-to-end pipeline: collects product, variant, and review data from Shopify store using Selenium and BeautifulSoup.
