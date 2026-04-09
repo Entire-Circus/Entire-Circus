@@ -12,7 +12,7 @@
 ---
 ### Projects
 - [Restaurant-Sales-Performance-Analysis](https://github.com/Entire-Circus/Restaurant-Sales-Performance-Analysis)
-  End-to-end restaurant sales analysis in Excel: Featuring automated data cleaning, EDA, a dynamic stakeholder dashboard, and what-if revenue forecasting scenario.
+  End-to-end restaurant sales analysis in Excel: Featuring data cleaning using Power Query, EDA, a dynamic stakeholder dashboard, and what-if revenue forecasting scenario.
 
 - [Shopify-web-scraper](https://github.com/Entire-Circus/Shopify-web-scraper)  
   Part 1 of an end-to-end pipeline: collects product, variant, and review data from Shopify store using Selenium and BeautifulSoup.
