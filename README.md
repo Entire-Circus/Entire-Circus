@@ -29,7 +29,7 @@
 ---
 
 ### Education 🎓
-- [Master’s Degree in Digital Economy] Kyiv National University of Trade and Economics (2024 - 2025)
+- [Master’s Degree in Digital Economics] Kyiv National University of Trade and Economics (2024 - 2025)
 - [Bachelor's Degree in International Economics] Kyiv National University of Trade and Economics (2020 - 2024)
 
 ### Certifications 📜
