@@ -1,8 +1,8 @@
-### Hi there, my name is Oleksandr 👋
+### Hi there, my name is Oleksandr 
 
 **Fields of interest**: Data analysis, Business Intelligence, Web scraping
 
-## Skills 🛠️ 
+## Skills 
 
 - **Languages**: Excel (Power Query, VBA), Python (Pandas, NumPy, Scikit-learn), SQL 
 - **Web Scraping**: BeautifulSoup, Zendriver(Nodriver), Selenium, Requests
@@ -28,11 +28,11 @@
 
 ---
 
-### Education 🎓
+### Education 
 - [Master’s Degree in Digital Economics] Kyiv National University of Trade and Economics (2024 - 2025)
 - [Bachelor's Degree in International Economics] Kyiv National University of Trade and Economics (2020 - 2024)
 
-### Certifications 📜
+### Certifications 
 - Coursera | [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/verify/VSQ6E2KORNL2) 
 - Coursera | Authorized by IBM | [Data Analysis with Python](https://www.credly.com/earner/earned/badge/5b1627f4-8012-45cf-875d-481869f6a7af).
 
